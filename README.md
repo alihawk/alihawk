@@ -9,7 +9,7 @@ Most of what I've learned comes from putting AI into real systems with real busi
 
 **Now:** building AI features (RAG, LLM pre-screening, multi-agent pipelines) for a clinical-trial platform.
 **Before:** AI/ML at ASML, evaluating and fine-tuning vision-language models. Before that, Spring Boot microservices for enterprise clients at GoSaaS AI.
-**Studied:** MSc in AI at Radboud University (Erasmus Mundus EMAI), BSc in Computer Science at NUST.
+**Studied:** MSc in AI (Erasmus Mundus EMAI), BSc in Computer Science at NUST.
 **Places:** I've studied and worked in Pakistan, Spain, Slovenia, the UK and the Netherlands.
 
 ## Things I've built
