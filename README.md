@@ -29,4 +29,4 @@ Most of what I've learned comes from putting AI into real systems with real busi
 
 Full-time AI, ML and agentic AI roles in the Netherlands, and remote contract work with US teams (US hours, based in Europe).
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/muhammadalimahmood/), at muhammad.ali.hawk@gmail.com, or see more at [alimahmoodai.vercel.app](https://alimahmoodai.vercel.app).
+Reach me on [LinkedIn](https://www.linkedin.com/in/muhammadalimahmood/), at muhammad.ali.hawk@gmail.com, or see more at [alimahmood.dev](https://alimahmood.dev).
