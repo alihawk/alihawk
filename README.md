@@ -7,10 +7,10 @@ I build LLM systems and the backends they run on. I fine-tune and quantize model
 
 Most of what I've learned comes from putting AI into real systems with real business rules. The hard part is rarely the model. It's knowing when to trust it, working out why it failed, and making failures visible to the people who have to act on them.
 
-**Now:** building AI features (RAG, LLM pre-screening, multi-agent pipelines) for a clinical-trial platform.
-**Before:** AI/ML at ASML, evaluating and fine-tuning vision-language models. Before that, Spring Boot microservices for enterprise clients at GoSaaS AI.
-**Studied:** MSc in AI (Erasmus Mundus EMAI), BSc in Computer Science at NUST.
-**Places:** I've studied and worked in Pakistan, Spain, Slovenia, the UK and the Netherlands.
+- **Now:** building AI features (RAG, LLM pre-screening, multi-agent pipelines) for a clinical-trial platform.
+- **Before:** AI/ML at ASML, evaluating and fine-tuning vision-language models. Before that, Spring Boot microservices for enterprise clients at GoSaaS AI.
+- **Studied:** MSc in AI (Erasmus Mundus EMAI), BSc in Computer Science at NUST.
+- **Places:** I've studied and worked in Pakistan, Spain, Slovenia, the UK and the Netherlands.
 
 ## Things I've built
 
@@ -22,12 +22,12 @@ Most of what I've learned comes from putting AI into real systems with real busi
 
 ## Tools
 
-Python, PyTorch, Hugging Face, LangChain, LangGraph, MLflow, FastAPI, PySpark
-Java, Spring Boot, PostgreSQL, Redis, Docker, Azure, Jenkins
-React, TypeScript
+- **AI/ML:** Python, PyTorch, Hugging Face, LangChain, LangGraph, MLflow, FastAPI, PySpark
+- **Backend:** Java, Spring Boot, PostgreSQL, Redis, Docker, Azure, Jenkins
+- **Frontend:** React, TypeScript
 
 ## Open to work
 
 Full-time AI, ML and agentic AI roles in the Netherlands, and remote contract work with US teams (US hours, based in Europe).
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/muhammadalimahmood/) or at muhammad.ali.hawk@gmail.com.
+Reach me on [LinkedIn](https://www.linkedin.com/in/muhammadalimahmood/), at muhammad.ali.hawk@gmail.com, or see more at [alimahmoodai.vercel.app](https://alimahmoodai.vercel.app).
