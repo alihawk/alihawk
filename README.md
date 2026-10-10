@@ -15,10 +15,9 @@ Most of what I've learned comes from putting AI into real systems with real busi
 ## Things I've built
 
 - [**Legacy UI Facade Maker**](https://github.com/alihawk/legacy-facade): turns legacy REST and SOAP APIs into React interfaces, using an LLM to clean up cryptic field names. Built solo, 219 tests.
+- [**Transport mode inference**](https://github.com/alihawk/modes-of-transportation-ds): a PySpark pipeline that cleans 900M+ location pings down to about 130M usable samples.
 - [**Uncertainty estimation for long-form RAG**](https://github.com/alihawk/rag-uncertainty-longform): hybrid retrieval over 6M+ Wikipedia passages with Qwen2.5-7B, scoring how uncertain each answer is.
 - [**Sunflower yield estimation**](https://github.com/alihawk/sunflower-dashboard-and-detection): YOLOv7 head counting from UAV images at about 93% accuracy, plus a live dashboard. My final year project.
-- [**Transport mode inference**](https://github.com/alihawk/modes-of-transportation-ds): a PySpark pipeline that cleans 900M+ location pings down to about 130M usable samples.
-- [**MoviesAPI**](https://github.com/alihawk/MoviesAPI-FullStack-Project): a Spring Boot and React app.
 
 ## Tools
 
